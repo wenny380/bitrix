@@ -1,0 +1,14 @@
+{
+    "name": "braind/project_name",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Developer",
+            "email": "developer@braind.agency"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.7"
+    }
+}
+
